@@ -871,6 +871,10 @@
    "dai": "佐御許"
   }
  ],
+ "translation": {
+  "count": 14,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-noriko-naishinno",
   "work": "規子内親王家歌合",
@@ -883,7 +887,7 @@
   "blocks": 14,
   "chars": 4258,
   "poems": 48,
-  "yaku": 0,
+  "yaku": 14,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T03:37:23+09:00"
